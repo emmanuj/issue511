@@ -1,0 +1,5 @@
+profile: cli
+defaultPackage: issue511
+---
+testFramework: spock
+sourceLanguage: groovy
